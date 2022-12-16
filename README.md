@@ -4,11 +4,11 @@
 - 💞️ Kod yazmaktan keyif alıyorum ve bu benim hobim.
 - 🎯 Hedefim 42 İstanbul'u kazanmak ve başarıyla tamamlamak.
 - 🤙 Dil hedefim bu yıl içerisinde C, python, C++ ve C# ı bitirmek.
-- ![[instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png)](https://www.instagram.com/gktgtnc/)
+- ![[instagram](https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg)](https://www.instagram.com/gktgtnc/)
 - [linkedin](https://www.linkedin.com/in/goktugtunc/)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=goktugtunc&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=goktugtunc&show_icons=true&theme=gradient)
 <!---
 killmatch/killmatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
