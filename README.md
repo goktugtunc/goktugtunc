@@ -4,7 +4,7 @@
 - 💞️ Kod yazmaktan keyif alıyorum ve bu benim hobim.
 - 🎯 Hedefim 42 İstanbul'u kazanmak ve başarıyla tamamlamak.
 - 🤙 Dil hedefim bu yıl içerisinde C, python, C++ ve C# ı bitirmek.
-- [instagram](https://www.instagram.com/gktgtnc/)
+- ![[instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png)](https://www.instagram.com/gktgtnc/)
 - [linkedin](https://www.linkedin.com/in/goktugtunc/)
 
 
