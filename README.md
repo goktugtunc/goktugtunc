@@ -8,7 +8,7 @@
 - [linkedin](https://www.linkedin.com/in/goktugtunc/)
 
 
-[![gotunc's 42 stats](https://badge42.vercel.app/api/v2/clehvm3tb00060fl247fehpdz/stats?cursusId=21&coalitionId=197)](https://github.com/JaeSeoKim/badge42)
+[![gotunc's 42 stats](https://badge42.vercel.app/api/v2/clehvm3tb00060fl247fehpdz/stats?cursusId=21&coalitionId=197)](https://profile.intra.42.fr/users/gotunc)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=goktugtunc&show_icons=true&theme=radical)
