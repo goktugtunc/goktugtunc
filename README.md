@@ -1,7 +1,6 @@
 - 👋 Selamlar, ben Göktuğ.
 - 📚 İstanbul Aydın Üniversitesinde bilg. Prog. okuyorum.
 - 🧠 Şimdilik junior düzey python ve orta düzey C biliyorum.
-- 💞️ Kod yazmaktan keyif alıyorum ve bu benim hobim.
 - 🎯 Hedefim 42 İstanbul'u başarıyla tamamlamak.
 - 🤙 Dil hedefim bu yıl içerisinde C++ ve C# ı elimden geldiğince öğrenebilmek.
 - [instagram](https://www.instagram.com/gktgtnc/)
